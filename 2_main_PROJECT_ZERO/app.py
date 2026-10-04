@@ -6,27 +6,75 @@ from search_fulltext import search_fulltext
 from ranking import get_engine, rebuild_index
 
 init_db()  # DB を初期化（テーブルがなければ作る）
-st.set_page_config(page_title="Tech0 Search v0.3", page_icon="🐈")
-st.title("🔍 Tech0 Search v0.3")
+
+@st.cache_resource
+def load_and_index():
+    """全ページを DB から読み込み TF-IDF インデックスを構築する。
+    @st.cache_resource により、アプリ起動中は一度だけ実行される。"""
+    pages = get_all_pages()
+    if pages:
+        rebuild_index(pages)
+    return pages
+
+pages = load_and_index()
+engine = get_engine()
+
+st.set_page_config(page_title="Tech0 Search v1.0", page_icon="🐈")
+st.title("🔍 Tech0 Search v1.0")
 st.title("PROJECT ZERO - 社内ナレッジ検索エンジン")
 
 tab1, tab2, tab3, tab4 = st.tabs(["検索", "クロール", "手動登録", "一覧"])
 
 with tab1:
-    query = st.text_input("キーワードを入力")
-    if query:
-        pages   = get_all_pages()    
-        results = search_fulltext(query, pages)   
-        st.markdown(f"**検索結果: {len(results)}件**（match_count順）")
-        st.divider()
-        for r in results:
-            st.markdown(f"### [{r['title']}]({r['url']})")
-            st.markdown(f"🔢 マッチ数: **{r['match_count']}** 回")
-            if r.get("preview"):
-                st.caption(r["preview"])
-            st.divider()
+    st.subheader("キーワード検索")
 
- 
+    col_serach, col_options = st.columns([3, 1])
+    with col_serach:
+        query = st.text_input("キーワードを入力", label_visibility="collapsed")
+
+    with col_options:
+        top_n = st.selectbox("表示件数", [10, 20, 50], index=0)
+
+    if query:
+        results = engine.search(query, top_n=top_n) 
+        log_search(query, len(results))  # 検索するたびに自動記録（W6発展で実装）
+  
+        st.markdown(f"**検索結果: {len(results)}件")
+        st.divider()
+
+        if results:
+            for i, page in enumerate(results, start=1):
+                with st.container():
+                    col_rank, col_title, col_score = st.columns([1, 6, 2])
+                    with col_rank:
+                        st.markdown(f"### {i}.")
+                    with col_title:
+                        st.markdown(f"### [{page['title']}]")
+                    with col_score:
+                        st.metric("スコア", f"{page['relevance_score']}",
+                                  delta=f"基準: {page['base_score']}")
+                    desc = page.get("description", "")
+                    if desc:
+                        st.markdown(f"*{desc[:200]}{'...' if len(desc) > 200 else ''}")
+
+                    kw = page.get("keywords", "") or ""
+                    if kw:
+                        # keywords は DB から読むと list、手動で入れると "A,B,C" の文字列になる。
+                        # ranking.py と同じく、どちらでも動くようにしておく。
+                        kw_list = [k.strip() for k in kw.split(",")] if isinstance(kw, str) else list(kw)
+                        tags = " ".join([f"`{k}`" for k in kw_list[:5] if k])
+                        st.markdown(f"🏷️ {tags}")
+
+                    col1, col2, col3, col4 = st.columns(4)
+                    with col1: st.caption(f"👤 {page.get('author', '不明') or '不明'}")
+                    with col2: st.caption(f"📊 {page.get('word_count', 0)} 語")
+                    with col3: st.caption(f"📁 {page.get('category', '未分類') or '未分類'}")
+                    with col4: st.caption(f"📅 {(page.get('crawled_at', '') or '')[:10]}")
+
+                    st.markdown(f"🔗 [{page['url']}]({page['url']})")
+                    st.divider()
+        else:
+            st.info("該当するページが見つかりませんでした")
 
 with tab2:
     st.write("単体クロール")
