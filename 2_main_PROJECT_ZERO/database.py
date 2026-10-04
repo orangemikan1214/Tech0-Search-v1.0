@@ -1,6 +1,7 @@
 import sqlite3
 from pathlib import Path
 from datetime import datetime
+import os
 
 # DB ファイルのパス（data/ サブフォルダに保存する）
 DB_PATH = Path("data/tech0_search.db")
@@ -25,7 +26,10 @@ def init_db():
     すでにテーブルが存在する場合は何もしない。
     """
     conn = get_connection()
-    with open("schema.sql", "r", encoding="utf-8") as f:
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    schema_path = os.path.join(base_dir, "schema.sql")
+
+    with open(schema_path, "r", encoding="utf-8") as f:
         conn.executescript(f.read())    # SQL ファイルをまとめて実行する
     conn.commit()
     conn.close()
