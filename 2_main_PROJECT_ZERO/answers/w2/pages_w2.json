@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "title": "営業店DX推進レポート",
+    "url": "https://kb.techzeron-bank.example/dx-report",
+    "description": "窓口業務のペーパーレス化で事務時間を30%削減したDXプロジェクトの記録",
+    "keywords": [
+      "DX",
+      "営業店",
+      "業務効率"
+    ],
+    "author": "田中太郎",
+    "created_at": "2025-01-15",
+    "category": "事例"
+  },
+  {
+    "id": 2,
+    "title": "住宅ローン審査AI導入の検討",
+    "url": "https://kb.techzeron-bank.example/ai-screening",
+    "description": "AI事前審査で融資業務をDX化する企画提案",
+    "keywords": [
+      "AI",
+      "融資",
+      "審査"
+    ],
+    "author": "鈴木花子",
+    "created_at": "2025-01-16",
+    "category": "企画"
+  },
+  {
+    "id": 3,
+    "title": "法人融資 稟議書の書き方ガイド",
+    "url": "https://kb.techzeron-bank.example/ringi-guide",
+    "description": "法人融資の稟議書作成の標準手順とチェックリスト",
+    "keywords": [
+      "融資",
+      "稟議",
+      "法人"
+    ],
+    "author": "山本一郎",
+    "created_at": "2025-01-17",
+    "category": "業務マニュアル"
+  },
+  {
+    "id": 4,
+    "title": "AIチャットボットによる照会対応DX",
+    "url": "https://kb.techzeron-bank.example/chatbot-dx",
+    "description": "コールセンターにAIチャットボットを導入し照会対応を効率化したDX事例",
+    "keywords": [
+      "AI",
+      "DX",
+      "コールセンター"
+    ],
+    "author": "佐藤健太",
+    "created_at": "2025-01-18",
+    "category": "事例"
+  },
+  {
+    "id": 5,
+    "title": "全店DX推進ロードマップ2026",
+    "url": "https://kb.techzeron-bank.example/dx-roadmap",
+    "description": "勘定系刷新とデジタルチャネル強化を柱とする全店DX計画の概要",
+    "keywords": [
+      "DX",
+      "経営企画",
+      "デジタル"
+    ],
+    "author": "中村美咲",
+    "created_at": "2025-01-19",
+    "category": "企画"
+  },
+  {
+    "id": 6,
+    "url": "https://kb.techzeron-bank.example/branch-paperless-2026",
+    "title": "営業店ペーパーレス化 全店展開レポート（2026年度上期）",
+    "description": "全150店舗への電子帳票基盤の展開状況と、窓口事務時間の削減効果をまとめた中間報告。",
+    "keywords": [
+      "ペーパーレス",
+      "営業店",
+      "DX",
+      "業務効率"
+    ],
+    "full_text": "営業店 ペーパーレス 化 の 全店 展開 が 2026 年度 上期 に 完了 した 電子 帳票 基盤 を 150 店舗 に 導入 し 窓口 事務 時間 を 平均 32 パーセント 削減 した 紙 の 稟議 書 を 電子 化 する こと で 決裁 までの 日数 も 短縮 され た 今後 は 融資 部門 への 展開 を 進める DX 推進 室 は 効果 測定 を 継続 する",
+    "links": [
+      "https://kb.techzeron-bank.example/dx-report",
+      "https://kb.techzeron-bank.example/dx-roadmap",
+      "https://www.techzeron-bank.example/ir/"
+    ],
+    "word_count": 65,
+    "crawled_at": "2026-04-10T09:15:00",
+    "crawl_status": "success",
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-04-10"
+  },
+  {
+    "id": 7,
+    "url": "https://kb.techzeron-bank.example/loan-ai-poc-result",
+    "title": "住宅ローン審査AI PoC 結果報告",
+    "description": "審査AIの実証実験について、精度・処理時間・現場の受け止めを整理した報告書。",
+    "keywords": [
+      "AI",
+      "住宅ローン",
+      "審査",
+      "機械学習"
+    ],
+    "full_text": "住宅 ローン 審査 AI の 実証 実験 を 3 か月 実施 した 過去 5 年 分 の 審査 データ を 学習 させ 一次 審査 の 判定 を 自動 化 した 精度 は 従来 の 目視 審査 と 同等 で 処理 時間 は 約 60 パーセント 短縮 した 一方 で 判断 根拠 の 説明 が 難しい という 課題 が 残る 現場 からは 最終 判断 は 人 が 行う 運用 を 継続 したい という 意見 が 多かった",
+    "links": [
+      "https://kb.techzeron-bank.example/ai-screening",
+      "https://kb.techzeron-bank.example/ringi-guide"
+    ],
+    "word_count": 75,
+    "crawled_at": "2026-04-10T09:16:22",
+    "crawl_status": "success",
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-04-10"
+  },
+  {
+    "id": 8,
+    "url": "https://kb.techzeron-bank.example/iot-branch-cost",
+    "title": "IoTセンサーによる店舗コスト削減の取り組み",
+    "description": "来店客数センサーと空調制御の連動により、店舗の光熱費を削減した事例。",
+    "keywords": [
+      "IoT",
+      "店舗",
+      "コスト削減",
+      "DX"
+    ],
+    "full_text": "IoT センサー を 用いた 店舗 運営 の 効率 化 に 取り組んだ 来店 客数 を 計測 する センサー を 30 店舗 に 設置 し 空調 と 照明 の 制御 に 連動 させ た 結果 光熱 費 を 年間 で 約 18 パーセント 削減 した 混雑 予測 に も 活用 でき 窓口 の 人員 配置 の 最適 化 に つながっ た DX 推進 の 事例 として 全店 に 横 展開 する 予定 で ある",
+    "links": [
+      "https://kb.techzeron-bank.example/dx-roadmap",
+      "https://kb.techzeron-bank.example/branch-paperless-2026"
+    ],
+    "word_count": 72,
+    "crawled_at": "2026-04-10T09:17:48",
+    "crawl_status": "success",
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-04-10"
+  },
+  {
+    "id": 9,
+    "url": "https://kb.techzeron-bank.example/old-manual-2019",
+    "title": "No Title",
+    "description": "",
+    "keywords": [],
+    "full_text": "",
+    "links": [],
+    "word_count": 0,
+    "crawled_at": "2026-04-10T09:18:05",
+    "crawl_status": "failed",
+    "error": "Failed to fetch page",
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-04-10"
+  }
+]

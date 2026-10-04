@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "title": "営業店DX推進レポート",
+    "url": "https://kb.techzeron-bank.example/dx-report",
+    "description": "窓口業務のペーパーレス化で事務時間を30%削減したDXプロジェクトの記録",
+    "keywords": [
+      "DX",
+      "営業店",
+      "業務効率"
+    ],
+    "author": "田中太郎",
+    "created_at": "2025-01-15",
+    "category": "事例"
+  },
+  {
+    "id": 2,
+    "title": "住宅ローン審査AI導入の検討",
+    "url": "https://kb.techzeron-bank.example/ai-screening",
+    "description": "AI事前審査で融資業務をDX化する企画提案",
+    "keywords": [
+      "AI",
+      "融資",
+      "審査"
+    ],
+    "author": "鈴木花子",
+    "created_at": "2025-01-16",
+    "category": "企画"
+  },
+  {
+    "id": 3,
+    "title": "法人融資 稟議書の書き方ガイド",
+    "url": "https://kb.techzeron-bank.example/ringi-guide",
+    "description": "法人融資の稟議書作成の標準手順とチェックリスト",
+    "keywords": [
+      "融資",
+      "稟議",
+      "法人"
+    ],
+    "author": "山本一郎",
+    "created_at": "2025-01-17",
+    "category": "業務マニュアル"
+  },
+  {
+    "id": 4,
+    "title": "AIチャットボットによる照会対応DX",
+    "url": "https://kb.techzeron-bank.example/chatbot-dx",
+    "description": "コールセンターにAIチャットボットを導入し照会対応を効率化したDX事例",
+    "keywords": [
+      "AI",
+      "DX",
+      "コールセンター"
+    ],
+    "author": "佐藤健太",
+    "created_at": "2025-01-18",
+    "category": "事例"
+  },
+  {
+    "id": 5,
+    "title": "全店DX推進ロードマップ2026",
+    "url": "https://kb.techzeron-bank.example/dx-roadmap",
+    "description": "勘定系刷新とデジタルチャネル強化を柱とする全店DX計画の概要",
+    "keywords": [
+      "DX",
+      "経営企画",
+      "デジタル"
+    ],
+    "author": "中村美咲",
+    "created_at": "2025-01-19",
+    "category": "企画"
+  },
+  {
+    "id": 6,
+    "url": "https://kb.techzeron-bank.example/branch-paperless-2026",
+    "title": "営業店ペーパーレス化 全店展開レポート（2026年度上期）",
+    "description": "全150店舗への電子帳票基盤の展開状況と、窓口事務時間の削減効果をまとめた中間報告。",
+    "keywords": [
+      "ペーパーレス",
+      "営業店",
+      "DX",
+      "業務効率"
+    ],
+    "full_text": "営業店 ペーパーレス 化 の 全店 展開 が 2026 年度 上期 に 完了 した 電子 帳票 基盤 を 150 店舗 に 導入 し 窓口 事務 時間 を 平均 32 パーセント 削減 した 紙 の 稟議 書 を 電子 化 する こと で 決裁 までの 日数 も 短縮 され た 今後 は 融資 部門 への 展開 を 進める DX 推進 室 は 効果 測定 を 継続 する",
+    "links": [
+      "https://kb.techzeron-bank.example/dx-report",
+      "https://kb.techzeron-bank.example/dx-roadmap",
+      "https://www.techzeron-bank.example/ir/"
+    ],
+    "word_count": 65,
+    "crawled_at": "2026-04-10T09:15:00",
+    "crawl_status": "success",
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-04-10"
+  },
+  {
+    "id": 7,
+    "url": "https://kb.techzeron-bank.example/loan-ai-poc-result",
+    "title": "住宅ローン審査AI PoC 結果報告",
+    "description": "審査AIの実証実験について、精度・処理時間・現場の受け止めを整理した報告書。",
+    "keywords": [
+      "AI",
+      "住宅ローン",
+      "審査",
+      "機械学習"
+    ],
+    "full_text": "住宅 ローン 審査 AI の 実証 実験 を 3 か月 実施 した 過去 5 年 分 の 審査 データ を 学習 させ 一次 審査 の 判定 を 自動 化 した 精度 は 従来 の 目視 審査 と 同等 で 処理 時間 は 約 60 パーセント 短縮 した 一方 で 判断 根拠 の 説明 が 難しい という 課題 が 残る 現場 からは 最終 判断 は 人 が 行う 運用 を 継続 したい という 意見 が 多かった",
+    "links": [
+      "https://kb.techzeron-bank.example/ai-screening",
+      "https://kb.techzeron-bank.example/ringi-guide"
+    ],
+    "word_count": 75,
+    "crawled_at": "2026-04-10T09:16:22",
+    "crawl_status": "success",
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-04-10"
+  },
+  {
+    "id": 8,
+    "url": "https://kb.techzeron-bank.example/iot-branch-cost",
+    "title": "IoTセンサーによる店舗コスト削減の取り組み",
+    "description": "来店客数センサーと空調制御の連動により、店舗の光熱費を削減した事例。",
+    "keywords": [
+      "IoT",
+      "店舗",
+      "コスト削減",
+      "DX"
+    ],
+    "full_text": "IoT センサー を 用いた 店舗 運営 の 効率 化 に 取り組んだ 来店 客数 を 計測 する センサー を 30 店舗 に 設置 し 空調 と 照明 の 制御 に 連動 させ た 結果 光熱 費 を 年間 で 約 18 パーセント 削減 した 混雑 予測 に も 活用 でき 窓口 の 人員 配置 の 最適 化 に つながっ た DX 推進 の 事例 として 全店 に 横 展開 する 予定 で ある",
+    "links": [
+      "https://kb.techzeron-bank.example/dx-roadmap",
+      "https://kb.techzeron-bank.example/branch-paperless-2026"
+    ],
+    "word_count": 72,
+    "crawled_at": "2026-04-10T09:17:48",
+    "crawl_status": "success",
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-04-10"
+  },
+  {
+    "id": 9,
+    "url": "https://kb.techzeron-bank.example/old-manual-2019",
+    "title": "No Title",
+    "description": "",
+    "keywords": [],
+    "full_text": "",
+    "links": [],
+    "word_count": 0,
+    "crawled_at": "2026-04-10T09:18:05",
+    "crawl_status": "failed",
+    "error": "Failed to fetch page",
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-04-10"
+  },
+  {
+    "url": "https://unrivaled-kangaroo-f00be-with.netlify.app/",
+    "title": "Ryota Mikami",
+    "description": "",
+    "keywords": [],
+    "full_text": "三上 遼太 Ryota Mikami 13期生の三上 遼太と申します 1997年10月25日生まれの今年29歳です 毎日を楽しく生きることが目標です Career 1997 福岡県久留米市生まれ 2016 進学で北海道へ 2023 就職で長崎へ 私の構成要素 映画好き 映画鑑賞が好きです。主に洋画を鑑賞しています。学生時代お金があまりにもなく、お金のかからない暇つぶしにと思って見始めたらどっぷりです。字幕版しか見ませんが英語を聞き取れるようにはなりません。 旅行好き 海外旅行が好きです。本場のカレーを体験すべく、一昨年一人初海外でインドへ行きました。常識の違い、海外の人のパワーに圧倒されました。次はヨーロッパ、特にイタリアへ行ってみたいです。 アイドル好き 乃木坂46が好きです。10年ほど前にはまり、熱の上下こそありましたがずっと好きです。学生時代はお金がない中ライブ遠征に行き、成田空港のロビーでよく寝ていました。1000円カットを卒業したのも乃木坂の影響です。 おすすめ映画３選 プラダを着た悪魔 社会に揉まれて人として成長する人の映画。オープニングの Suddenly I See がものすごくおしゃれで何回も見てしまう。日曜日に見ると明日からまた頑張ろうと前向きになれる。 ファイトクラブ ルール1. ファイトクラブについて、口にしてはいけない。ただ毎日生きることが目的になってしまっていないか、自分は何のために生きたいのか、自分の頭で考えようと思えた作品。 ジョジョラビット WWⅡ中のドイツでの話。純粋な子どもが自分の頭で考え成長する話。戦争映画ではあるが、コメディ要素が多くかなり見やすい印象。母親含め優しい大人が多く、見ていて嫌な気持ちにならない。",
+    "links": [
+      "https://www.gaga.co.jp/release/",
+      "https://www.italia.it/en",
+      "https://www.nogizaka46.com/s/n46/?ima=4206"
+    ],
+    "word_count": 34,
+    "crawled_at": "2026-09-23T14:25:01.215827",
+    "crawl_status": "success",
+    "id": 10,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://minatoiwamitsu-with.netlify.app/",
+    "title": "私の自己紹介",
+    "description": "",
+    "keywords": [],
+    "full_text": "出身地 宮崎県都城市 趣味 ・筋トレ ⇒いろいろなエニタイムフィットネスに行って新しい器具 を試すのが好きです🦾🦾 ・飲み歩き ⇒暇があれば穴場的な居酒屋さんを探してます。 福岡県に限らず、いいところがあったら教えてください🍺🍺 泣いたエピソード 部活でぺナルディキックを外してしまい、最後の大会で敗退してしまった時です⚽ ワールドカップや高校サッカーでPK戦になると見てるだけで緊張します。。。 体験してみたいこと 今年は大阪で二郎系ラーメンを食べてみたいです！ 今ハマっていること 香水を探すことです！！大分にある香りの博物館にいってから匂いの魅力に引き込まれました！",
+    "links": [],
+    "word_count": 16,
+    "crawled_at": "2026-09-23T14:26:06.733843",
+    "crawl_status": "success",
+    "id": 11,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://daichi-murakami-profile-no.netlify.app/",
+    "title": "Profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "村上 大知 北海道大学 工学部 環境社会工学科にて土木工学を専攻。休学期間に地元北海道の企業にて、インターンとしてゲストハウスの海外展開支援に従事。2022年に経済産業省入省し、気候変動政策や中小企業のデジタル化支援等に従事。 世界経済フォーラムの30歳以下の団体である、Global Shapers Communityにてグローバル視点の地域課題解決を目的に活動中。2026年1月、Davos 40に選出され、ダボス会議に参加。 Interests 地方都市 Local 北海道恵庭市出身。東京と地方都市の間の機会の格差、主要都市でさえも持続的ではない現状に問題意識。 社会課題 Social Impact 社会課題解決に関心を持ち、持続的な社会に向けた仕組みづくりを資本市場やスタートアップ等から多角的に模索。 グローバル Global 世界経済フォーラムの30歳以下の団体である、Global Shapers Communityにてグローバル視点の地域課題解決を目的に活動中。 Activity World Economic Forum Annual Meeting 2026 Global Shapers Communityにて1万人以上のメンバーから40名の代表に選ばれ、ダボス会議に参加。投資家や起業家、大企業のCEOをはじめ、世界のリーダーの見解を直接聞き、対話し、次に向けた繋がりを得られました。日本がいかにグローバルな議論のテーブルに着けていないかを痛感。 関連リンク Linkedin 記事 世界の最前線で感じた「日本の現在地」〜GIA3期生・村上大知氏 ダボス会議参加報告会〜（2026年03月11日） GXスタートアップの創出・成長に向けたガイダンス 2024年1月、気候変動分野のスタートアップの成長に向けたガイダンスを策定。ソフトウェア分野と比べて、ハードウェアが中心となるスタートアップにおいて、「需要起点」のアプローチの重要性を事例と共に解説。本プロジェクトをきっかけにスタートアップを通じて、技術を社会実装していく方法論に魅せられる。 関連リンク GXスタートアップの創出・成長に向けたガイダンス Green Innovator Academy 民間企業やパブリックセクター、国際機関等が集まり、対話をしながら気候変動問題へのアプローチをセクターを超えて議論するプログラムに参画。アジアのGX推進に向けた提言案をチームで策定。 関連リンク 意志ある人材がより輝ける社会をつくりたい。経済産業省 村上大知氏（2024年05月30日） © Daichi Murakami 2026.",
+    "links": [
+      "https://www.instagram.com/daichi_okaki/?hl=ja",
+      "https://www.facebook.com/profile.php?id=100023514960735",
+      "https://www.linkedin.com/pulse/reflection-world-economic-forum-annual-meeting-2026-daichi-murakami-ehlbc",
+      "https://green-innovation-project.com/media/eventdaichimurakami/",
+      "https://www.meti.go.jp/policy/energy_environment/global_warming/gx_startup/gx_startup.html",
+      "https://green-innovation-project.com/media/interview-senior-3-5-2/"
+    ],
+    "word_count": 52,
+    "crawled_at": "2026-09-23T14:26:07.401425",
+    "crawl_status": "success",
+    "id": 12,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://bootcamp.tech0-jp.com/",
+    "title": "Tech0 BootCamp",
+    "description": "Tech0 BootCamp",
+    "keywords": [],
+    "full_text": "",
+    "links": [],
+    "word_count": 0,
+    "crawled_at": "2026-09-23T14:26:30.387238",
+    "crawl_status": "success",
+    "id": 13,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://www.apple.com/jp/store?afid=p240%7Cyj~cmp-602066628~adg-181573684262~ad-824824105608_kwd-10778630~dev-c~ext-&cid=aos-jp-kwyh-txt-brand-Brand--",
+    "title": "Apple Storeオンライン - Apple（日本）",
+    "description": "下取りや柔軟な支払いオプションで今すぐ購入。パーソナルショッピングのサポートサービスを提供します。送料無料。Apple Storeの魅力のすべてをオンラインでどうぞ。",
+    "keywords": [],
+    "full_text": "ストア いま人気です。 アクセサリ。 いつでもどうぞ。 Apple Storeだけの魅力。 今お使いのデバイスを下取りに出すと、 新しいデバイスが割引に 脚注 †。 金利0％の分割払い。対象のクレジットカードまたはペイディあと払いプランApple専用で利用できます 脚注 ‡。 もっとあなたらしく。絵文字、名前、数字を組み合わせて刻印できます。しかも無料です。 ご注文はすべて送料無料。在庫がある場合は、お近くのApple Storeでも受け取れます。 Apple Store Appでパーソナライズされた ショッピング体験を。 Macをカスタマイズしたり、あなたにぴったりのApple Watchを作れま‍す。 はっきりクリアに。 Appleの体験。 連係 一台でもパワフル。一⁠緒⁠なら超パワフル。 APPLE STORE APP 特別価格とオファー。 クイックリンク",
+    "links": [
+      "https://www.apple.com/jp/airpods",
+      "https://www.apple.com/jp/apple-tv-4k",
+      "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
+      "https://www.apple.com/jp/shop/buy-iphone/iphone-duo",
+      "https://www.apple.com/jp/shop/buy-iphone/iphone-17",
+      "https://www.apple.com/jp/today/event/spotlight-apple-intelligence?cid=rem-jp-taa-store-consumer-spotlight-ai",
+      "https://www.apple.com/jp/today/calendar?sessions=skills&topics=daily-sessions&cid=rem-jp-taa-store-fundm-cal",
+      "https://www.apple.com/jp/apple-music",
+      "https://www.apple.com/jp/apple-intelligence",
+      "https://www.apple.com/jp/macos/continuity",
+      "https://www.apple.com/jp/ios/home",
+      "https://www.apple.com/jp/retail/business"
+    ],
+    "word_count": 31,
+    "crawled_at": "2026-09-23T14:39:22.079333",
+    "crawl_status": "success",
+    "id": 14,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "description": "世界中のあらゆる情報を検索するためのツールを提供しています。さまざまな検索機能を活用して、お探しの情報を見つけてください。",
+    "keywords": [],
+    "full_text": "検索オプション © 2026 - プライバシー - 規約",
+    "links": [
+      "https://mail.google.com/mail/&ogbl",
+      "https://www.google.com/imghp?hl=ja&ogbl",
+      "https://www.google.co.jp/intl/ja/about/products",
+      "https://accounts.google.com/ServiceLogin?hl=ja&passive=true&continue=https://www.google.com/&ec=GAZAmgQ",
+      "http://www.google.co.jp/intl/ja/services/",
+      "https://www.google.com/setprefdomain?prefdom=JP&prev=https://www.google.co.jp/&sig=K_5I5veuLsr_xTeW2MvYXpa_WuRcg%3D"
+    ],
+    "word_count": 7,
+    "crawled_at": "2026-09-23T14:39:49.594507",
+    "crawl_status": "success",
+    "id": 15,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "http://www.cciweb.or.jp/kochi/yosakoiweb/",
+    "title": "南国土佐・高知「よさこい祭り」公式ウェブサイト",
+    "description": "",
+    "keywords": [],
+    "full_text": "新着情報 開催スケジュール2026.08.12後夜祭・全国大会 出番表 2026/08/12 後夜祭・全国大会 出番表 2026/08/12 開催スケジュール2026.07.242026年版よさこい祭り公式ガイド／交通規制案内 2026年版よさこい祭り公式ガイド／交通規制案内 開催スケジュール2026.07.07【注意喚起】 【注意喚起】 新着情報一覧 公式X",
+    "links": [
+      "http://www.cciweb.or.jp/kochi/yosakoiweb/kochijho/2026/deban_zenkokutaikai/",
+      "http://www.cciweb.or.jp/kochi/yosakoiweb/kochijho/2026/2026yosakoiguidebook/",
+      "http://www.cciweb.or.jp/kochi/yosakoiweb/kochijho/2026/caution/",
+      "http://www.cciweb.or.jp/kochi/yosakoiweb/info/",
+      "https://twitter.com/YosakoiMatsuriS?ref_src=twsrc%5Etfw"
+    ],
+    "word_count": 13,
+    "crawled_at": "2026-09-23T14:42:05.856531",
+    "crawl_status": "success",
+    "id": 16,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://queijadas-hideki-intro-revenge-no.netlify.app/",
+    "title": "坂本英樹-紹介",
+    "description": "",
+    "keywords": [],
+    "full_text": "Mission: テクノロジーの力で、人を犠牲にしない意思決定を 共感してくださる方、ぜひ一緒にチームを組みましょう！ プロフィール 氏名： 坂本英樹 場所： 東京在住（山口県生まれ） 趣味： コーヒー、リングフィットアドベンチャー ミッションの背景 かつて、ノルマの基準が十分に議論されず、自分のチームメンバーで不正が発生。その方は上司に責められ、命を断とうとするまで追い詰められた キャリアコンサルタントとして、議論よりも、とにかく日々の仕事を回すことを優先する組織への苦悩の声に耳を傾けてきた これらの経験から、意思決定の場に必要な情報が届き、プロセスがオープンにされている状態を目指すようになり、組織の意思決定によって人の人生を壊されないことを目指す 今の業務はダッシュボード管理。意思決定の不を取り除く、仕掛けをテクノロジーの力で実現したい キャリア＆スキル #1 法人営業(2015-2018) #2 採用担当(2018-2020) #3 人事企画(2020-2024) #4 キャリアコンサルタント(2022-) #5 予算編成、BIツール(2024-) #6 MBA取得 事業・プロダクト開発 プライベート 奥さんと2人暮らし ふたご座 休日はじっとしていられず、予定入れがち 性格 提唱者(INFJ) INFJは控えめなタイプに見える場合もあるかもしれませんが、内面には深い情熱を秘めています。深く考え、強い共感力を持ちながら、自分にとって意義のある目的を追い求めるのです。 *ESFJ（幹部）、ISTP（巨匠）、ESFJ（領事官）と特に相性がいいそうです 連絡先",
+    "links": [
+      "https://www.16personalities.com/ja/infj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC",
+      "https://facebook.com/YOURNAME",
+      "https://twitter.com/YOURNAME"
+    ],
+    "word_count": 38,
+    "crawled_at": "2026-09-23T14:49:44.836252",
+    "crawl_status": "success",
+    "id": 17,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://iimuro-self-introduction-revised-with.netlify.app/",
+    "title": "IIMURO Satoshi-revised",
+    "description": "",
+    "keywords": [],
+    "full_text": "Welcome to Satoshi's Room Now it will be revealed ! What are his beliefs? 技は作って使う ”進化”は場所の変更を要する 桃太郎の繰り返し ---------------------------------------- １．「技は作って使う」とはどういうことか 文字通り、「技」を使うためにはまずその「技」そのものを創出する過程が必要です。 技は使えば崩れます。 したがって、再度作り直す過程が必要になります。それが何度も何度も繰り返されます。 見た目は同じような鍛錬が繰り返されますが、それはあたかもらせん状に登っていくように質的に高いものへと昇華していきます。 ２．「”進化”は場所の変更を要する」とはどういうことか 生命体が”進化するためには場所の変更が必須です。” 生命は海から陸へ、そして一部は陸から空へ。 ”二酸化炭素と窒素の世界\"から”酸素の世界”へ。 研究も同じことです。同じフィールドにとどまっていては次の発展はありません。一般的に己の専門領域はおよそ10年～15年ほどで大きくその場を変えていきます。もちろん、背後に連続性は存在します。 だから自分はTech0に入ろうと決心しました。臨床⇒臨床研究⇒臨床研究支援⇒研究の信頼性保証⇒研究公正と研究の「場」を変更してきて、再度飛躍するためにLatest Technologyが必要だと判断したからです。 ３．「桃太郎の繰り返し」とは何を言いたいのか 小さい子どもに「桃太郎」の話を聞かせるときに、まずは犬が家来になる話をします。「桃太郎さん、お越しに付けたきびだんご、ひとつ私にくださいな」 そのあとの猿の話も雉の話も「同じように家来になりました」ではなく、「桃太郎さん、お越しに付けたきびだんご、ひとつ私にくださいな」と繰り返します。 その繰り返しがあるからこそ、日本人は日本語を立派にしゃべるようになる、ということです。 バイオリンの基本技も空手の基本技も、「あとは同じようにやればいいよ」という指導では身に付きません。（たぶんTechも同じこと。） だから今回のこの課題なのか・・・ ---------------------------------------- My hobbies 「技は作るもの」ということは趣味から学んだ Violin Gio Batta Morassi Anno 1983 5歳からヴァイオリンを始めました。今年で52年目！ ヴァイオリンは音と奏法を作るところから始まります。 基本技が出来上がるまでにおよそ10年。 その間、同じようなレッスンがずっと続きます。 Gio Batta Morassi Anno 2008 こちらは同じ作者のビオラです。 最近は子どもたちのアンサンブルでピオラパートを手伝っています。 基本的な奏法はバイオリンと同じです。 ただし、大きさが全然違うのでビオラを弾くとヴァイオリンが弾けなくなります。 Viola & Violin 大きさの違いが一目瞭然です。 Old German about 1900 1900年前後のドイツのオールド楽器です。 コンテンポラリーのイタリアンとは響きが全く違います。 My original Anno 2026 自分で製作したヴァイオリンです。 2026年製ですが箱閉じは2024年、製作に6年かかりました。 以上、ヴァイオリンの紹介でした。 Karate 空手の基本技は突きと蹴りです。 突きを正しい軌道で突けるように、蹴りを正しい軌道で蹴ることができるようになるのに約半年かかります。 組手をやればせっかく作った技は崩れます。 ですので、再度技を作り直すという過程が必要になります。その過程は最初に技を習うときと同じです。 そうやって5年、10年と続けていくと、見た目は同じ突きや蹴りであっても中身は全く別物の「鍛え上げられた技」が出来上がります。 それでも使えば崩れるのですが。 そうやって空手を練習しているときに理解したのです。「ヴァイオリンの上達論と空手の上達論は全く同じではないか！」と。 これが「技は作って使う」ということと「桃太郎の繰り返し」ということです。 以上、空手の紹介でした。 My Reserach 研究においても「技は作るもの」だった Clinical trial 臨床と臨床試験 臨床医としてバリバリ働いたのは最初の7年だけでした。その後、基礎研究で医学博士を取得したのち臨床試験の領域にシフトしました。 一応、医師としての「技」を構築する、ということは意識していました。 臨床試験は「技」＝「型」の塊のような世界でした。 臨床試験の世界に「実施体制」（プロジェクトマネジメント、データマネジメントの概念を含む）という概念が登場するのは実は1970年代ですが、それが日本に入ってきたのは1990年代後半でした。 さらに同じころ、臨床試験にEDC（Electric Data Capture system）が導入され、そのプログラミング、データ定義書、標準業務手順書などが整備されるようになりました。 それまでの臨床とは全く違う世界でしたが、やってみるとなかなか楽しい。 自分でも何本も臨床試験を組みましたが、そのうち他の研究者の臨床試験を支援する立場（ARO; Academic Research Organization）にシフトしていきました。 Integrity 研究公正 他の研究者の研究を支援していく中で大きな問題となったことは、研究あるいは研究データの信頼性をどうやって担保するかということでした。 もちろん故意の不正は許されざることですが、研究者は「知らぬ間に」あるいは「良かれと思って」いろいろなことをやらかすのです。 後になって研究に疑義が寄せられたときにどう対応するのか、それは「研究倫理」では対応できない事象でした。 そこで提唱したことが、「臨床研究の世界に品質管理の概念を持ち込むということでした。 それはtraceabiityと言ってもいいし、meta data管理と言ってもいいものです。 ただし、ここでいうResearch Integrityとは、安全保障輸出管理の文脈で出てくる「研究インテグリティ」とは少し違います。（基本的な考え方は実は同じですが。） そして、自分の専門に「研究公正Research Integrity」が加わりました。 研究の公正性担保を考えたときに、どうしても必要になったのが「最新のTechを知る」ということでした。 Technologyの進化はもちろん研究を支えるのですが、それは同時に研究プロセスのブラックボックス化に直結します。 たとえば1990年代後半は自分のPCで大規模データを扱うことは不可能で、大学の計算機センターに持ち込んで解析をしていました。 その後のPCの急速な性能アップは、自分のPCでのデータ解析を可能にしましたが、データハンドリングから解析までのステップがブラックボックスになってしまいました。 この2，3年の急速なAIの進化は、ブラックボックスの無制限の拡大になっています。 このような時代にどうやって研究の公正性を担保するか。そのためには裏に潜むTechを知る必要があったのです。 そしてTech0の13期生になってしまいました（笑）。 番外編 Mountains Mountains アサヨ岳 甲斐駒ヶ岳 剱岳 雪山シーズンも",
+    "links": [],
+    "word_count": 131,
+    "crawled_at": "2026-09-23T14:49:45.763560",
+    "crawl_status": "success",
+    "id": 18,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://profile6-shimasaki-with.netlify.app/",
+    "title": "Profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "大人も子どもも心が満たされるレシピ Profile Sakitchen 嶋サキ 趣味：料理研究家 東京在住。小学1年生ママ。月５回自宅でホームパーティをひらく、食いしん坊な飲兵衛。 お酒に合う、簡単で美味しいをご飯をInstagramで発信しています。仕事は製薬営業。 時短！半熟卵の裏技 半熟ゆで卵が通常の半分の時間で出来る裏技を紹介。ツルッと殻も剥けちゃいます！ ワインに合うレバーパテ ワイン好き必見！なめらかなレバーパテが簡単にお家でできちゃう。 ふわふわポップオーバー ふわふわの食感が魅力的なポップオーバー。簡単に出来て美味しい！ Contact",
+    "links": [
+      "https://www.instagram.com/reel/C3mVulApTrs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "https://www.instagram.com/reel/DZCliLNvxL3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "https://www.instagram.com/reel/DZFW241vr72/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "https://www.instagram.com/sakitchen_recipe?igsh=MXM1OHlvdWYwcGU5MA%3D%3D&utm_source=qr",
+      "https://www.facebook.com/people/Sakitchen/61576417321388/?mibextid=wwXIfr&rdid=2hwoRc3kVfuE42Fz&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CdFdLQsfP%2F%3Fmibextid%3DwwXIfr"
+    ],
+    "word_count": 14,
+    "crawled_at": "2026-09-23T14:49:46.524126",
+    "crawl_status": "success",
+    "id": 19,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://tranquil-babka-4cc49c-with.netlify.app/",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "PROFILE WORK 東京外大でポルトガル語を学び、再エネ、原子力・火力等のエネルギー関係 × 海外営業でキャリアを重ねる。24年に早稲田ビジネススクールでMBA修了後、海外営業部門の課長として現場の実務とマネジメントに奮闘する毎日です。一応真面目に働いています…笑 LIFE & INTERESTS 行った国：欧州、北米・南米や東アジア等、これまで16か国 趣味/特技：ビジネス書・マンガを積読。絶賛消化不良中。 座右の銘：知恵と勇気、そこで気合と根性が困難な道を切り開く FUTURE 26年6月からTech0でデジタルスキルを研鑽中（辛い…）これまでの現場経験にデジタルスキルを掛け合わせ、より強い仕組み・組織作り、本当の意味での企業の変革が起こせる人間を目指しています。デジタルスキル習得後はFP&AやSCMを深堀したい。 同じように何かをコツコツ学んでいる方や、共通の趣味がある方とゆるく繋がれたら嬉しいです。",
+    "links": [],
+    "word_count": 14,
+    "crawled_at": "2026-09-23T14:49:47.238131",
+    "crawl_status": "success",
+    "id": 20,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://takahashilp2ver3-no.netlify.app/",
+    "title": "Kazu's Mind",
+    "description": "",
+    "keywords": [],
+    "full_text": "My profile 氏名：髙橋一也 愛称：かずや 経歴：機械設計職 → マーケティング＆経営戦略室 My mindset 勇気を出して 小学校の卒業式のときに先生が贈ってくれた「飛行船」のフレーズ 技術は地続き 魔法のように見える技術も一個一個の技術の積み重ね 鉄は熱いうちに打て 仕事は生き物。同じメッセージでもそのタイミングでしか響かない 出身・居住地 出身：群馬県 沼田市 居住：埼玉県 春日部エリア 出身：群馬県 沼田市 居住：埼玉県 春日部エリア 趣味：クライミング 恥ずかしかったこと：13期メンバーの名前覚え課題！(笑) んー、あの時はすみませんでした！！！ (> o <);",
+    "links": [
+      "https://www.youtube.com/watch?v=bZfszoEl6TA",
+      "https://share.google/aimode/SJ4Hxa2mSLLKYE7xu"
+    ],
+    "word_count": 30,
+    "crawled_at": "2026-09-23T14:49:47.914077",
+    "crawl_status": "success",
+    "id": 21,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://magenta-cajeta-6a797c-with.netlify.app/",
+    "title": "Jumpei Yamamuro - Portfolio",
+    "description": "",
+    "keywords": [],
+    "full_text": "未経験を言い訳にしない。1年でTech人材へと駆け上がる、私の現在地。 Jumpei Yamamuro's Portfolio About 山室 順平(Yamamuro Jumpei) 新卒でHRテックの会社で中小企業から大企業の採用支援営業、営業企画として６年間勤務。2025年末、遊び・観光系の会社に転職し、全社の営業企画を担当。日本の観光や体験の魅力を国内外問わず隅々に届け、日本のウェルビーイングを高めたいという想いでビジネスに向き合っています。 My history 社会人8年で７回の引越し。多様な街での暮らしが、私の原点です。 大阪 生まれ育ち、大学時代まで過ごした愛着のある故郷。 名古屋→広島→岡山→福岡→金沢→横浜 社会人になり、全国の主要都市を駆け巡った激動のビジネスライフ（1社目）。 湘南 転職し、家族4人で過ごす現在の拠点。 My hobbies 私のライフを彩る、趣味の紹介です。 湘南の海沿いをランニング こちらに引っ越してからは、なくてはならない趣味に。鎌倉や江ノ島など観光地を巡るランニングは最高です。 自転車と読書 福岡・糸島に住んでいた際に、家から近くのお気に入りスポットです。一人で読書や自転車も好きです。 旅行 国内外問わず、学生時代からたくさんの場所に旅行へ。写真は、街並み・人々の温かさが忘れられないクロアチアです。 キャンプ コロナ禍からハマったキャンプ。団体・ソロどちらも好きです。先日は家族4人になって初のファミリーキャンプに行きました。 Why tech0 「ビジネスの意思決定に、テックの知見は不可欠。そして、30歳になり、一番近くにいる家族のためにできることを増やしたい。」 01. BizDevとしての危機感と、テックの必要性 ベンチャー企業へ転職し、ビジネス（BizDev）とテクノロジー（Tech）の圧倒的な距離の近さ、そして凄まじいスピード感を肌で体感しました。今後、自らが舵を取り、重要な意思決定を下す場面が増えていく中で、テックへの深い知見と理解がなければ生き残れないと強い危機感を抱いたことが、挑戦の大きな原動力です。 02. 30歳という節目。一番近くにいる家族を幸せにするために もう一つの理由は、プライベートにおける決意です。30歳という人生の節目を迎え、「自分にできることを一つでも多く増やし、大切な家族を幸せにしたい」という想いがより一層強くなりました。未経験を言い訳にせず、1年でTech人材へと駆け上がる姿を通じて、家族の未来を豊かにしていくための挑戦でもあります。 Contact ご相談やご依頼、メッセージなど、お気軽にご連絡ください。 メールアドレス（必須） お問い合わせ内容（必須）",
+    "links": [],
+    "word_count": 42,
+    "crawled_at": "2026-09-23T14:49:48.815529",
+    "crawl_status": "success",
+    "id": 22,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://dulcet-crumble-4517a7-with.netlify.app/",
+    "title": "横尾真樹 自己紹介ページ",
+    "description": "",
+    "keywords": [],
+    "full_text": "Message 私は横尾真樹（よこお まさき）です。長崎県の地方銀行にて勤務しています 今回色々とチャレンジしていければと思っていますので、皆さんどうぞよろしくお願いします！！ profile 名前 横尾真樹 年齢 39歳(今年40歳)トラ年 出身地 長崎県諫早市 趣味 ソフトテニス／野球観戦 softtennis きっかけ 親の転勤をきっかけに引越し 引越し先がソフトテニスが盛んで近所は経験者ばかり 友達から誘われたことをきっかけに小４ではじめる 学生時代 中学時代：九州ベスト４ 高校時代：県高総体優勝、インターハイベスト32 大学時代：九州大会優勝、インカレベスト64 実業団時代 現在の職場に実業団があり所属 仕事をしながら平日業後や土日に練習 約10年間所属しのち実業団選手としては引退 現在 実業団引退後はしばらくしていなかったが、 学生時代からの友人に誘われ再開 趣味の一環としてぼちぼちやってます my job 入行 いろいろな縁があり入行 入行式で高校時代の同級生と卒業式以来の再開 入行から約2か月半のあいだ、研修で長崎⇔福岡を往復 配属 初めての配属先は佐世保の日宇支店 土地勘もなく戸惑いながらやっていました この支店では支店長や取引先の社長といい出会いができました 異動 初めての異動は戸惑いもありつつも近隣店舗で安心したことを覚えています また、この支店で住宅ローンを結構とっていたことで表彰を受ける共に ローンセンターへの異動のきっかけにもなりました 現在 実業団を引退したこともあり遠くに移動すると思っていたら現在の部署へ異動 新しい部署だったため、辞令が出たときには誰も何も知らず不安いっぱいでした 今年で８年目、今回のTech0にて新しいチャレンジをして成長したいです！",
+    "links": [
+      "https://www.18shinwabank.co.jp/corporate/digitalsupport/"
+    ],
+    "word_count": 48,
+    "crawled_at": "2026-09-23T14:49:49.954076",
+    "crawl_status": "success",
+    "id": 23,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://6a35ee7d1bada58e47c5fc66--dashing-rolypoly-d17511.netlify.app/",
+    "title": "YUICHIRO IMAI | Operating Officer, Sankyo Seiko Co., Ltd.",
+    "description": "",
+    "keywords": [],
+    "full_text": "OPERATING OFFICER / SANKYO SEIKO CO., LTD. YUICHIRO IMAI 私はブランドの変革者を目指しています。 01GREETING ご挨拶 私はこれまで長期間、海外でブランドビジネスに携わってきました。 この知見を活かして、日本と海外の橋渡し役として、 MBAの学びとこれから学ぶテクノロジーを使って 変革を進めていきたいと思います。 02PROFILE 自己紹介 YUICHIRO IMAI 三共生興株式会社 / 執行役員 DAKS SIMPSON COMPANY LIMITED / Managing Director 台湾三共生興股份有限公司 / 董事長 本社ホールディング部門 DAKS・ライセンス事業部 担当 繊維部門 第7G 担当 グロービス経営大学院 経営大学院卒 03HISTORY これまでの歩み 2002 台湾に転勤。現地でアパレルブランドの営業を担当 台湾に転勤。現地でアパレルブランドの営業を担当 2010 香港に転勤。中国内地におけるブランド営業・開発を担当 香港に転勤。中国内地におけるブランド営業・開発を担当 2020 台北支店 支店長に就任 台北支店 支店長に就任 2023 DAKS Simpson Ltd の Managing Director に就任 DAKS Simpson Ltd の Managing Director に就任 2026.03 グロービス経営大学院卒 MBA取得 グロービス経営大学院卒 MBA取得 2026.06 TECH 0にてテクノロジーを学び始める TECH 0にてテクノロジーを学び始める 04SKILLS 専門領域 愛嬌とひとなつっこいのが特徴で、デジタルスキルはワンちゃんなみ。 05FEATURE 私のミッション 130年の歴史を未来へつなぐ 英国王室ご用達ブランドとしての歴史・レガシーを尊重しながら、現代のニーズに合ったブランディングを行う。 アジアの発展に寄与する 地理的な隣人である東アジアと共に成長し、お世話になった彼らに恩返しをしたい。また海外で活躍する人材の育成を行う。 06WORKS 担当事業・実績 07TRANSFORMATION PLAN 変革計画 デジタル接点の拡大 デジタルネイティブ層に向けてブランドの認知を拡大する 在庫の適正化 小売事業における在庫状況をデータに基づき適正化する データ起点のデザイン 商品企画において、データを活用したデザインクリエーションを行う 08CONTACT お問い合わせ TECH 0のチームメンバーにぜひ加えていただければ幸いです！ Instagram @yimai1978 Facebook 今井雄一郎",
+    "links": [
+      "https://daks.com/",
+      "https://instagram.com/yimai1978"
+    ],
+    "word_count": 107,
+    "crawled_at": "2026-09-23T14:49:51.040450",
+    "crawl_status": "success",
+    "id": 24,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://charming-faloodeh-2d91c4-no.netlify.app/",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "Yousuke Akashika（あかぷ） 困難な課題ほど面白い最後までやり切ります 1年間よろしくお願いいたします。 My story これまでの経緯 中学～高校 勉強もサッカーも結果が出ず、悔しい経験をする 大学サッカー 友人の言葉をきっかけに、努力の量を見直す 社会人 新しい環境のなかで、歯を食いしばって成果を出す グロービス 優秀な仲間に刺激を受けながら、最後まで学び抜く 現在 学びを継続し、組織や社会に貢献したい What I do 現在取り組んでいること 化学受託研究 化学分析・材料評価を通じて、企業の課題解決を支援 子育て 新米パパです。 読書会運営 学びを共有し、成長の場をつくる Tech0 プログラミングを学び、Web開発スキルを習得中 My Values 大切にしている価値観 才能より努力 継続する努力を信じる まずは行動 考えるだけでなく、仮説をもって動いて学ぶ 最後までやり切る 目標に向かって粘り強く取り組む 学びを実践する 学んだことを実践し、成果につなげる",
+    "links": [],
+    "word_count": 40,
+    "crawled_at": "2026-09-23T14:49:51.811692",
+    "crawl_status": "success",
+    "id": 25,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://asakurahinakoprofile-with.netlify.app/",
+    "title": "自己紹介ページ",
+    "description": "",
+    "keywords": [],
+    "full_text": "朝倉日向子 asakura hinako official site 北海道札幌市育ち。 アパレル企業で人事として働きながら、 Prime Video「ラブトランジット3」への参加をきっかけにSNSでの発信を始めました。 人と話すこと、新しい価値観に出会うことが好きです。 関東を拠点に活動しています。 Profile 🎂 Birthday 1997.01.20 🌷 MBTI ENFP 💼 Work HR ❄️ Home Town Sapporo 📍 Base Tokyo Favorite Things 🐈 Cat My lovely family. 👗 Fashion I enjoy fashion and beauty. 🍽️ Dining Good food, good drinks, and good vibes. What I Value 恋愛も、人間関係も、仕事も。 大人になるほど正解はなくて、悩みながら進んでいくことばかり。 私自身、たくさんの人や言葉に支えられてきたからこそ、 今度は誰かの心が少し軽くなるような発信を届けたい。 「なんか分かる」「ちょっと元気が出た」 そんなふうに思ってもらえる存在でありたいと思っています。 Journey Contact Instagram TikTok",
+    "links": [
+      "https://www.instagram.com/hinako.asakura/",
+      "https://lite.tiktok.com/t/ZSQEFgUab/"
+    ],
+    "word_count": 64,
+    "crawled_at": "2026-09-23T14:49:52.716893",
+    "crawl_status": "success",
+    "id": 26,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://stunning-chaja-909268-with-bootstrap.netlify.app/",
+    "title": "Mayolin introduction",
+    "description": "",
+    "keywords": [],
+    "full_text": "Mayolin introduction ”まよりん”というニックネームはクラス２の皆さんからの命名です！ プロフィール 名前：まよりん 年齢：想像してね！ 出身地＆現住所：神奈川出身、東京在住 趣味 散歩・旅行（国内・海外） 素敵な建物を見たり、自然を満喫したりとその場所の空気感を楽しんでいます。写真は東京藝術大学に残る1880年代に造られた日本最古のレンガ造りの建物です。 昨年ポーランド・ドイツへ旅行し、第二次大戦の傷跡を感じながら、戦争の悲惨さと平和の尊さを改めて考えました。 素敵な建物を見たり、自然を満喫したりとその場所の空気感を楽しんでいます。写真は東京藝術大学に残る1880年代に造られた日本最古のレンガ造りの建物です。 昨年ポーランド・ドイツへ旅行し、第二次大戦の傷跡を感じながら、戦争の悲惨さと平和の尊さを改めて考えました。 アンティーク 特に手作業で作り上げたものに惹かれます。100年近く前の振り子時計や古いランプなどに囲まれながら、80年前に造られた木の机でテレワークしています。 特に手作業で作り上げたものに惹かれます。100年近く前の振り子時計や古いランプなどに囲まれながら、80年前に造られた木の机でテレワークしています。 マシンピラティス 肩こり改善のため最近始めました。見た目のゆっくりな動きとは違って結構ハードです。じわりと筋肉疲労も感じます... でも、下半身にも効く動きもあるので、続けていきたいと思っています！ 肩こり改善のため最近始めました。見た目のゆっくりな動きとは違って結構ハードです。じわりと筋肉疲労も感じます... でも、下半身にも効く動きもあるので、続けていきたいと思っています！ いままでの仕事 信用調査会社で16年勤務 企業データの営業、経営分析商材受発注ラインでの業務改善など 企業データの営業、経営分析商材受発注ラインでの業務改善など 某教育系アプリ企業へ 需要予測、事業所の収益改善、運用構築、業務改善などなんでも 需要予測、事業所の収益改善、運用構築、業務改善などなんでも 現職 メーカーで経営企画 中計初導入。管理会計・予算制度も初導入で全体設計から運用フローまで幅広く構築中 AI推進も担当。 中計初導入。管理会計・予算制度も初導入で全体設計から運用フローまで幅広く構築中 AI推進も担当。 今後は？ ジョブの再設計か...？！ ジョブの再設計か...？！ BootCamp入隊理由 AIを駆使してどこまで進めるのか、1人社長にチャレンジしてみたいです！！ 将来の夢 国内外格差の是正 旅行をしていろいろ考えたことがあり...首都圏とそれ以外の経済、世界の地域、男女、年代、教育環境など努力では埋められない生まれながらの格差是正にお役に立ちたいです",
+    "links": [],
+    "word_count": 42,
+    "crawled_at": "2026-09-23T14:49:53.734109",
+    "crawl_status": "success",
+    "id": 27,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://iridescent-queijadas-97c-with.netlify.app/",
+    "title": "藤井智樹 自己紹介",
+    "description": "",
+    "keywords": [],
+    "full_text": "Welcome My Room Profile NAME 藤井 智樹 テクノロジーとビジネスの両面から新しい挑戦を続けます Career 学生時代に物理を学ぶ 重工業企業でコンピュータシミュレーションを活用 自動車部品メーカーで設計開発に従事 MBA大学院でビジネスの基本を学ぶ 経営企画部門で新規事業戦略、M&A業務等を担当 妻のアロマテラピービジネスを支援 My Favorite 麻雀 物心ついたころから麻雀牌に親しむ。今でもオンライン麻雀やフリー雀荘を楽しんでいます。 家族旅行 妻と娘3人と年に1度はプチ旅行へ。 クラシック音楽 ストラビンスキーが好きです。たまに生演奏鑑賞。 ゲーム ファイナルファンタジーファン。シリーズを長く楽しみ、次回作も楽しみにしています。 釣り 最近は伊勢湾船釣りにはまってます。 料理 釣った魚のお造り。最近は電気圧力鍋を使っておいしく時短料理。 AROMA ようこそ Aroma Chum へ 頑張り過ぎて疲れ切ったあなたに... アロマを通して癒しと喜びの時間を アロマとは、植物の香り。 その優しい香りは、私たちの心と身体に穏やかに働きかけてくれます。 植物から抽出した香り成分である「精油」（エッセンシャルオイル）を使って、 美と健康に役立てる自然療法が「アロマテラピー」。 aroma chum(アロマチャム)では、 いつも元気でイキイキと笑顔で過ごしたいあなたに、 手作りコスメ教室や健康講座など、 日常生活に手軽に取り入れられる「アロマテラピー」をお伝えしています。 家事に子育てに、仕事にと毎日忙しく働く子育て世代のママに、 頑張りすぎる毎日からほんの少しだけリラックス＆リフレッシュ。 明日の朝起きるのが楽しみになる…あなた自身が本来持つ、心と身体の強さと美しさを取り戻しましょう！ 代表・アロマ講師 藤井啓愛 サロン所在地 岐阜県可児市 ナード・アロマテラピー協会 資格認定校 サロンでは、以下の講座を開講しています 手作りコスメ教室 アロマ＆健康講座・活用講座 子育てママと思春期のお子様のためのアロマ講座 ナード・アロマテラピー協会アロマアドバイザー資格養成コース Contact",
+    "links": [
+      "https://www.facebook.com/profile.php?id=61557280918277"
+    ],
+    "word_count": 60,
+    "crawled_at": "2026-09-23T14:49:54.494123",
+    "crawl_status": "success",
+    "id": 28,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://cute-salamander-e7c423-no.netlify.app/",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "井手智章自己紹介LP 今住んでいるところの魅力について 自己紹介 名前 井手 智章 生年月日 1987年5月10日 出身地 福岡県福津市 血液型 O型 大学時の研究 NOxの直接分解反応 趣味 スポーツ観戦、ボケーっとyoutube見ること 今住んでいるところの魅力 宮地嶽神社 夕日が参道と海に一直線に重なる「光の道」と、強い開運パワーを感じられる神社として魅力あふれる場所です。 かがみの海 福岡県福津市の福間海岸〜宮地浜〜津屋崎海岸の約3kmにわたる遠浅の浜が、干潮時に空を鏡のように映す幻想的な絶景スポットです。 イオンモール福津 福岡県福津市にある大型ショッピングモールで、買い物・グルメ・映画・子どもの遊び場がそろう地域最大級の商業施設です。 ぜひ、遊びに来てください",
+    "links": [
+      "https://www.facebook.com/tomoaki.ide.7/",
+      "https://www.instagram.com/idetomoaki/",
+      "https://www.google.co.jp/maps/place/%E5%AE%AE%E5%9C%B0%E5%B6%BD%E7%A5%9E%E7%A4%BE+%E5%8F%82%E9%81%93/@33.77916,130.4838742,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgIDejr7mxQE!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGGdVCov964Uwqxx2y6jKMSKBg-nQSi2JIK-P0Bd7p23N-RQCqU1QgErAgV1J1Uuo57xTBLzu8DXjVo0g8kOsaha8YZZVq7da_QlDs7cLXjDSvtNMznnuxEpqqi8o_PsNvAulxX%3Dw86-h105-k-no!7i1993!8i2447!4m11!1m2!2m1!1z5a6u5Zyw5ba956We56S-!3m7!1s0x354229e0e03f6683:0x67df5c8634b19f0b!8m2!3d33.77916!4d130.4838742!10e5!15sCg_lrq7lnLDltr3npZ7npL5aEyIR5a6u5ZywIOW2vSDnpZ7npL6SARJ0b3VyaXN0X2F0dHJhY3Rpb26aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTTRibUZtV25CM1JSQULgAQD6AQQIDRAe!16s%2Fg%2F11jhxhrcqs?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D",
+      "https://www.google.co.jp/maps/place/%E3%81%8B%E3%81%8C%E3%81%BF%E3%81%AE%E6%B5%B7%EF%BC%88%E6%B4%A5%E5%B1%8B%E5%B4%8E%E6%B5%B7%E5%B2%B8%EF%BC%89/@33.7833643,130.468295,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgIDHuf3JhwE!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFqjFbflFIIkQyW8zinRn_c5V7vK59LADl8hnwUdCC6qAAMJh594w11gneXa_P_lHyxTL4ohDfiYrSCqw_Zrdltye1cp4uWtCo4gGuBS4Veq8ptTYPwNsBTlNRMZGanPDflDAsFBA%3Dw86-h114-k-no!7i2908!8i3877!4m11!1m2!2m1!1z56aP5rSl44CA44GL44GM44G_44Gu5rW3!3m7!1s0x354227eca3328f8d:0x8474f859ff383f2b!8m2!3d33.7831231!4d130.4676774!10e5!15sChjnpo_mtKXjgIDjgYvjgYzjgb_jga7mtbeSAQtzY2VuaWNfc3BvdOABAA!16s%2Fg%2F11pv095kyy?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D",
+      "https://www.google.co.jp/maps/place/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E7%A6%8F%E6%B4%A5/@33.7522547,130.4946108,3a,75y,90t/data=!3m8!1e2!3m6!1sCIABIhCmmvHSh_dSsxHT6uYHv4Il!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAG7-NE63yLmo8eBVlWdqjP3ClP-4ItlIZu-wq1rKv0fp8zeQAiIFpfafKCGnirGmwak9xz8TopSHgUThaxA4fCTW0Arf1sPH57Th8Qv0BTjIlphEECKr6kquR_fvCG3xaBKoVzsa4pC181h%3Dw114-h86-k-no!7i4000!8i3000!4m7!3m6!1s0x35422842475b40a5:0xe2350c868243974b!8m2!3d33.75341!4d130.4941102!10e5!16s%2Fg%2F1219y40y?entry=ttu&g_ep=EgoyMDI2MDYxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "word_count": 24,
+    "crawled_at": "2026-09-23T14:49:55.482048",
+    "crawl_status": "success",
+    "id": 29,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://shuhei-lp-week2-with.netlify.app/",
+    "title": "Shuhei-KJ",
+    "description": "",
+    "keywords": [],
+    "full_text": "いまを生きる、みらいを創る 理念 挑み、変わり続ける。それこそが、最高の人生戦略！ スキル ガスタービン研究開発・現地試運転 ブエノスアイレスにて 大学院時代は流体力学・伝熱工学・燃焼技術を学び、2008年に三菱重工業に入社。火力発電所のガスタービンの研究開発に15年間従事。 オープンイノベーション推進 Michigan Universityにて 2022年:本社に異動後、新規事業・オープンイノベーションの従事、大学・スタートアップとの協業推進、技術トレンドの分析を担当。 内閣府・AI戦略 中央合同庁舎8号館前にて 2022年:内閣府に出向し、政府のAI戦略を所掌する部署に配属。AI戦略本部や予算の事務局、AIの安全性評価のための評価事業を担当。また、AI政策では、高市政権の日本成長戦略 AI・半導体分野にてバーティカルAI戦略をとりまとめ。 自己紹介 梶村 周平 生年月日：1984年2月24日 出身地：岡山県笠岡市 好物：味付けたまご、ワインと肉、チーズケーキ お問い合わせ メールアドレス（必須） お問い合わせ内容（必須） ※必須項目は必ずご記載ください",
+    "links": [
+      "https://www.facebook.com/shuhei.kajimura.3?locale=ja_JP",
+      "https://radiant-salamander-6f0527.netlify.app/#"
+    ],
+    "word_count": 25,
+    "crawled_at": "2026-09-23T14:49:56.269857",
+    "crawl_status": "success",
+    "id": 30,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://lively-sfogliatella-a6d909-with.netlify.app/",
+    "title": "春日将史の自己紹介ページ",
+    "description": "",
+    "keywords": [],
+    "full_text": "AI前提の世の中だから拡がるキャリアの可能性を 一緒にお探しさせてください。 春日 将史(MASAFUMI KASUGA) Message 宮大工(父方祖父)、町中華のオーナー(母方祖父)、配管工事職人(父)など職人家系に生まれながら、外交官に憧れた幼少期。 母がトリプルワークをして大学の学費を捻出してくれたこと。学生時代目にした日比谷公園の派遣村。 それらは私が「仕事とキャリア」をファーストキャリアとして選択するに至った原体験です。 仕事を通じて様々なキャリア選択に触れ、今後も関わり続けたいと思っていますが、 それは私が28歳の時、自分自身を着飾ってキャリア選択に失敗しメンタルダウン寸前まで絶望した経験と、 いい時はただ見守り、そんなピンチにいち早く手を差し伸べてくれた人への感謝が根底にあります。 誰も解を持っていないAI時代のキャリア選択。少しでも支えになるような貢献ができれば嬉しく思います。 Services 1on1伴走/キャリアメンタリング リスキリング支援 About 早稲田大学卒業後、2011年にリクルート入社。 HR領域で大手製造業(自動車、総合電機等)に対する人材紹介及び採用広告メディアの法人営業、RPOサービスのプロジェクトマネジメントを担当。 “人材のプロ”を志し、別HR企業に転じて組織・人材開発領域のコンサルタント、個人事業主及びパラレルワーカー向けのサービス開発、マーケット開拓を手掛ける。 上記の経験を活かし、リクルートに再入社後、スタートアップ支援専任組織の立上げ及びコーポレート領域の採用、転職支援を専門に活動(専門：バックオフィス、社外役員)。 その後、マネジャーとして高年収帯コーポレート職、同金融・建設不動産業界専任支援組織を担当後、 ダイレクトリクーティングサービス(RDS)のセールスマネジャーとしてエンタープライズ顧客への法人営業、クライアントサクセスを担当。 2025年4月よりヘッドハンター部門における高年収帯IT領域(日系、外資)の責任者に着任し現在に至る。 ライフワークとして、事業拡大期の組織におけるマネジメント体制の構築、人事制度構築支援、キャリアメンタリングを個人事業主として支援し2026年現在で5期目。 今後、AI前提社会における「雇用とキャリア」「仕事と組織のデザイン」を専門として活動すべく、2026年をキャリアブレイクと位置づけTech0にてリスキル中。 Copyright © 2026 MASAFUMI KASUGA All Rights Reserved.",
+    "links": [],
+    "word_count": 34,
+    "crawled_at": "2026-09-23T14:49:57.016331",
+    "crawl_status": "success",
+    "id": 31,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://ryuto0-with.netlify.app/",
+    "title": "Ryuto Matsuki",
+    "description": "",
+    "keywords": [],
+    "full_text": "経歴 趣味 最近の推し店 名前 ：松木 竜人 生年月日：2000年5月17日 出身地 ：長野県長野市 経歴 サッポロビール株式会社 入社 「いつかマーケティング関係の部署に行きたい！」と配属面談で伝えたところ、 運よく初期配属で願いが叶った。 ブランドマーケティングを担当 北海道限定で発売されているサッポロ クラシックのチームに所属。 飲食店向け・流通向けの施策を通じて、お客様に選ばれる ブランドづくりについて学ぶ。 飲食店営業へ異動 予想していなかった異動で最初は焦った。 他社扱いのお店を自社に変え、シェアを広げていく0か100かの世界が、 「キングダムみたいで面白い。」と思えてから営業の楽しさに気づく。 営業 × マーケティング × Tech 現在はtech0 13期生としてtech学びながら、 ビジネスとテクノロジーをつなげられる人材を目指している。 趣味 ライブ鑑賞 「推しは推せるときに推せ」 ライブでの感動だけでなく、 解散・脱退といった経験から 「この瞬間を最大限楽しむ」 という価値観が形成された。 外飲み 「ビール or 緑ハイ」 野球場や屋外飲みなど、 外の風に当たりながら 飲むのが好き。 家系ラーメン 「お好みは硬め濃いめ多め」 一口スープを飲んだ瞬間、 脳にイナズマが走る あの感覚を求めている。 「お酒飲んでラーメン食べるから太るんだよ」 という同期の発言により、 2週に1杯としている。 最近の推し店 祐天寺SANYA 築60年の洋服屋をDIYした内装と温かい接客で”居たくなるお店づくり” 名物は芝浦のレバー串。注文されてから串打ちを行い、炭で焼くライブ感は◎ 落ち着いて飲める雰囲気があり、仕事終わりにも行きたくなるお店。 © 2026 Ryuto Matsuki. All rights reserved.",
+    "links": [],
+    "word_count": 65,
+    "crawled_at": "2026-09-23T14:49:57.866027",
+    "crawl_status": "success",
+    "id": 32,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://profound-beignet-ed1ea1-no.netlify.app/",
+    "title": "Shunichiro Mori_introduction",
+    "description": "",
+    "keywords": [],
+    "full_text": "新しい景色を ・素材メーカー 品質保証本部 本部長 ・中部品質管理協会 理事 ・経営チームメンバーとして、品質保証の上手い流れを創ることをテーマに活動しています。 ・素材メーカー 品質保証本部 本部長 ・中部品質管理協会 理事 ・経営チームメンバーとして、品質保証の上手い流れを創ることをテーマに活動しています。 ・品質マネジメント構築と改善 ・シックスシグマ グリーンベルト ・経営学修士修了（2017.3） ・tech0 Boot Campチャレンジ中（2026.6.9〜） ・出身地：福島県会津若松市・居住地：岐阜県岐阜市。 ・趣味：ボウリング、ウォーキング・筋トレ、読書 ・信条：天より授かった徳と材を結縁の中で、小善を実践し、一燈照隅し続けることで唯一の人生を全うします。",
+    "links": [],
+    "word_count": 23,
+    "crawled_at": "2026-09-23T14:49:58.758190",
+    "crawl_status": "success",
+    "id": 33,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  },
+  {
+    "url": "https://shogo-lp-tech0-with.netlify.app/",
+    "title": "中井翔悟 | ライフプランナー",
+    "description": "中井翔悟のライフプランナー公式ランディングページ。銀行員としての経験を活かし、家族・仕事・お金の不安に寄り添い、人生設計をサポートします。",
+    "keywords": [],
+    "full_text": "お金を通して、想いをかたちにする。 スタートは銀行員でした。 いまはライフプランナーとして、家族のこと、仕事のこと、教育のこと、老後のことなど、人生に関わるお金の相談をお受けしています。 保険の話からではなく、「どんな人生にしたいのか」「何を大切に守りたいのか」を一緒に言葉にすることから始めます。 あなたとご家族の未来を、数字だけでなく、想いのある人生設計として整えていきます。 ライフプラン相談 家計、教育費、住宅ローン、老後資金などを整理し、将来のお金の流れを見える化します。「このままで大丈夫か」を、人生全体から一緒に確認します。 保障の見直し 今入っている保険が、本当に今の家族に合っているか確認します。入りすぎ、足りなさ、目的のズレを整理し、必要な保障をわかりやすく設計します。 資産形成の相談 NISA、変額保険、外貨、老後資金準備など、目的に合わせて考えます。商品ありきではなく、「何のためのお金か」から一緒に整理します。 プロフィールProfile 1989年生まれ。大阪府池田市在住。妻と子ども3人の5人家族。 銀行員として、お金・企業経営・組織運営に向き合ってきました。現在はソニー生命のライフプランナーとして、家族・仕事・お金の不安に寄り添う活動をしています。 お問い合わせ・ご相談 まずは、保険の話でなくても大丈夫です。住宅ローン、教育費、転職・独立、今の保障の確認など、お気軽にご相談ください。",
+    "links": [],
+    "word_count": 16,
+    "crawled_at": "2026-09-23T14:49:59.623897",
+    "crawl_status": "success",
+    "id": 34,
+    "author": "クローラー",
+    "category": "クロール",
+    "created_at": "2026-09-23"
+  }
+]

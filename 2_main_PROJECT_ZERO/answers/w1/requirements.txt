@@ -1,0 +1,3 @@
+# w1 で使う外部ライブラリ
+# インストール： pip install -r requirements.txt
+streamlit
